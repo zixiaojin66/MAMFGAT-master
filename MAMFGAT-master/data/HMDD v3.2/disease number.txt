@@ -1,0 +1,374 @@
+1	Leukemia, Lymphocytic, Chronic, B-Cell
+2	Colonic Neoplasms
+3	Breast Neoplasms
+4	Leukemia
+5	Lung Neoplasms
+6	Colorectal Neoplasms
+7	Leukemia, Promyelocytic, Acute
+8	Pituitary Neoplasms
+9	Carcinoma, Hepatocellular
+10	Cardiomyopathy, Hypertrophic
+11	Thyroid Neoplasms
+12	Asthma
+13	Lymphoma, B-Cell
+14	Ovarian Neoplasms
+15	Polycythemia Vera
+16	Leukemia, Myeloid, Acute
+17	Leukemia, Lymphoid
+18	Nasopharyngeal Neoplasms
+19	Retinal Degeneration
+20	Carcinoma, Renal Cell
+21	Myelodysplastic Syndromes
+22	Neurodegenerative Diseases
+23	Lupus Vulgaris
+24	Leukemia, Myeloid, Chronic-Phase
+25	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+26	Marek Disease
+27	Atherosclerosis
+28	Sepsis
+29	Choriocarcinoma
+30	Glomerulonephritis
+31	Melanoma
+32	Diabetes Mellitus, Type 2
+33	Lymphoma, Large-Cell, Anaplastic
+34	Pancreatic Neoplasms
+35	Heart Failure
+36	Hemangioma
+37	Diabetes Mellitus
+38	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+39	Hypertrophy
+40	Glioblastoma
+41	Lymphoma
+42	Leukemia-Lymphoma, Adult T-Cell
+43	Adrenocortical Carcinoma
+44	Mesothelioma
+45	Leukemia, Myeloid, Chronic-Phase
+46	Carcinoma, Non-Small-Cell Lung
+47	Alzheimer Disease
+48	Esophageal Squamous Cell Carcinoma
+49	Hypertension
+50	Urinary Bladder Diseases
+51	Eosinophilic Esophagitis
+52	Pregnancy, Ectopic
+53	Graves Disease
+54	Myocardial Infarction
+55	Multiple Myeloma
+56	Endometriosis
+57	Myasthenia Gravis
+58	Multiple Sclerosis
+59	Parkinson Disease
+60	Retinoblastoma
+61	Diabetes Mellitus, Type 1
+62	Crohn Disease
+63	Stroke
+64	Coronary Artery Disease
+65	Spinal Cord Injuries
+66	Obesity
+67	Glioma
+68	Cholangiocarcinoma
+69	Spondylarthritis
+70	Carotid Artery Diseases
+71	Aortic Valve Disease
+72	Frontotemporal Dementia
+73	Spinal Stenosis
+74	Familial Mediterranean Fever
+75	Acute Lung Injury
+76	Lupus Nephritis
+77	Kidney Neoplasms
+78	Arthritis
+79	Anemia
+80	Heart Diseases
+81	Metabolic Syndrome
+82	Scleroderma, Localized
+83	Scleroderma, Systemic
+84	Muscular Dystrophy, Duchenne
+85	Tuberculosis, Pulmonary
+86	Gastrointestinal Neoplasms
+87	Giant Cell Tumor of Bone
+88	Liver Cirrhosis
+89	Liver Diseases
+90	Osteoporosis
+91	Esophageal Neoplasms
+92	Endometrial Neoplasms
+93	Lymphoma, Large B-Cell, Diffuse
+94	Testicular Neoplasms
+95	Kidney Diseases
+96	Fragile X Syndrome
+97	Machado-Joseph Disease
+98	Biliary Tract Neoplasms
+99	HELLP Syndrome
+100	Adrenal Cortex Neoplasms
+101	Amyotrophic Lateral Sclerosis
+102	Psoriasis
+103	Lymphoma, Non-Hodgkin
+104	Irritable Bowel Syndrome
+105	Osteosarcoma
+106	Endomyocardial Fibrosis
+107	Lymphoma, T-Cell
+108	Acute Coronary Syndrome
+109	Tuberculosis
+110	Epilepsy
+111	Cardiomyopathy, Dilated
+112	Huntington Disease
+113	Rectal Neoplasms
+114	Vasculitis
+115	Liver Neoplasms
+116	Nephrotic Syndrome
+117	Bronchopulmonary Dysplasia
+118	Essential Hypertension
+119	Colitis, Ulcerative
+120	Digestive System Neoplasms
+121	Hirschsprung Disease
+122	Autoimmune Lymphoproliferative Syndrome
+123	Glaucoma
+124	Hepatoblastoma
+125	Hematologic Neoplasms
+126	Atrial Fibrillation
+127	Arteriosclerosis Obliterans
+128	Neuralgia, Postherpetic
+129	Foot-and-Mouth Disease
+130	Aortic Aneurysm, Abdominal
+131	Hyperhomocysteinemia
+132	Osteoarthritis
+133	Hyperlipoproteinemia Type III
+134	Peripheral Nervous System Diseases
+135	Celiac Disease
+136	Diabetic Cardiomyopathies
+137	Bicuspid Aortic Valve Disease
+138	Friedreich Ataxia
+139	Periodontitis
+140	Dementia
+141	Chagas Disease
+142	Azoospermia
+143	Inflammatory Bowel Diseases
+144	Liposarcoma
+145	Diabetic Retinopathy
+146	Cystic Fibrosis
+147	Hepatic Veno-Occlusive Disease
+148	Frailty
+149	Hepatitis
+150	Leukemia, B-Cell
+151	Brain Neoplasms
+152	Focal Epithelial Hyperplasia
+153	Carcinoma, Embryonal
+154	Leukemia, Myeloid
+155	Tongue Neoplasms
+156	Prion Diseases
+157	Rhabdomyosarcoma
+158	Medulloblastoma
+159	Fatty Liver, Alcoholic
+160	Pulmonary Embolism
+161	Inflammation
+162	Fatty Liver
+163	Moyamoya Disease
+164	Autoimmune Diseases
+165	Cardiomegaly
+166	Down Syndrome
+167	Hearing Loss
+168	Cholesteatoma
+169	Neurilemmoma
+170	Amyloidosis
+171	Waldenstrom Macroglobulinemia
+172	Ischemia
+173	Idiopathic Pulmonary Fibrosis
+174	Pelvic Inflammatory Disease
+175	Graves Ophthalmopathy
+176	Intermittent Claudication
+177	Acquired Immunodeficiency Syndrome
+178	Ependymoma
+179	Encephalitis
+180	Diabetic Foot
+181	Stevens-Johnson Syndrome
+182	Sarcoma
+183	Neuroblastoma
+184	Leukemia, T-Cell
+185	Chondrosarcoma
+186	Wilms Tumor
+187	Skin Neoplasms
+188	Carcinoma, Endometrioid
+189	Tourette Syndrome
+190	Leukemia, Biphenotypic, Acute
+191	Myopia
+192	Gout
+193	Dyspepsia
+194	Intracranial Aneurysm
+195	Vitiligo
+196	Cataract
+197	Hyperglycemia
+198	Uveitis
+199	Dermatomyositis
+200	Coronary Restenosis
+201	Leprosy
+202	Li-Fraumeni Syndrome
+203	Lymphoma, Follicular
+204	Pemphigus
+205	Ossification of Posterior Longitudinal Ligament
+206	Macular Degeneration
+207	Lymphedema
+208	Arthritis, Psoriatic
+209	Infertility
+210	Lymphoma, Mantle-Cell
+211	Musculoskeletal Abnormalities
+212	Pterygium
+213	Encephalomyelitis
+214	Intervertebral Disc Degeneration
+215	Listeriosis
+216	Colitis
+217	Leiomyosarcoma
+218	Fanconi Anemia
+219	Neovascularization, Pathologic
+220	Liver Failure
+221	Retinal Neovascularization
+222	Astrocytoma
+223	Laryngeal Neoplasms
+224	Lymphoma, T-Cell, Cutaneous
+225	Hypoxia
+226	Chronic Pain
+227	Teratocarcinoma
+228	Barrett Esophagus
+229	Neutropenia
+230	Pain
+231	Meningioma
+232	Alopecia
+233	Chordoma
+234	Granulosa Cell Tumor
+235	Carcinoma, Basal Cell
+236	Periodontal Diseases
+237	Antiphospholipid Syndrome
+238	Biliary Atresia
+239	Thrombocytosis
+240	Pheochromocytoma
+241	Salivary Gland Neoplasms
+242	Lesch-Nyhan Syndrome
+243	Leishmaniasis
+244	Meningitis
+245	Long QT Syndrome
+246	Keratitis
+247	Aortic Aneurysm
+248	Tibial Meniscus Injuries
+249	Carcinoma, Neuroendocrine
+250	Gallstones
+251	Cholestasis
+252	Thrombosis
+253	Pregnancy Complications
+254	Narcolepsy
+255	Neuroendocrine Tumors
+256	Coloboma
+257	Intellectual Disability
+258	Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+259	Costello Syndrome
+260	Hemophilia A
+261	Growth Disorders
+262	Hypogonadism
+263	Emphysema
+264	Aneurysm
+265	Carcinoma, Merkel Cell
+266	Pneumonia
+267	Blindness
+268	Osteogenesis Imperfecta
+269	Persistent Fetal Circulation Syndrome
+270	Osteoporosis, Postmenopausal
+271	Blood Coagulation Disorders
+272	Lung Injury
+273	Dental Enamel Hypoplasia
+274	Status Epilepticus
+275	Cone Dystrophy
+276	Carcinoma, Pancreatic Ductal
+277	Muscular Dystrophy, Facioscapulohumeral
+278	Bronchopneumonia
+279	Fabry Disease
+280	Subacute Sclerosing Panencephalitis
+281	Lichen Planus
+282	Leiomyoma
+283	Fibrosarcoma
+284	Hemangiosarcoma
+285	Myositis Ossificans
+286	Demyelinating Diseases
+287	Odontogenic Tumors
+288	Oligodendroglioma
+289	Pancreatic Diseases
+290	Lymphoma, Extranodal NK-T-Cell
+291	Osteopetrosis
+292	Varicocele
+293	Choroidal Neovascularization
+294	Fever
+295	Nephrolithiasis
+296	Thrombocytopenia
+297	Asthenozoospermia
+298	Oral Submucous Fibrosis
+299	Osteomyelitis
+300	Congenital Microtia
+301	Ileus
+302	Cardio-Renal Syndrome
+303	Cleidocranial Dysplasia
+304	Legg-Calve-Perthes Disease
+305	Angiomyolipoma
+306	Meningitis, Pneumococcal
+307	Coronavirus Infections
+308	Lymphocytic Choriomeningitis
+309	Congenital Hypothyroidism
+310	Hidradenitis Suppurativa
+311	Peri-Implantitis
+312	Aniridia
+313	Venous Thromboembolism
+314	Diarrhea
+315	Pelvic Organ Prolapse
+316	Burns
+317	Hyperuricemia
+318	Peritoneal Fibrosis
+319	Corneal Neovascularization
+320	Short Bowel Syndrome
+321	Seizures
+322	Gliosis
+323	MELAS Syndrome
+324	Retinitis Pigmentosa
+325	Lymphoma, Primary Effusion
+326	Endotoxemia
+327	Neuroma
+328	Mycosis Fungoides
+329	Aortic Aneurysm, Thoracic
+330	Prolactinoma
+331	Cytomegalovirus Retinitis
+332	Myositis
+333	Fibromyalgia
+334	Constriction, Pathologic
+335	Cardiotoxicity
+336	Carcinoma, Adenoid Cystic
+337	Endocrine Gland Neoplasms
+338	Fibromatosis, Aggressive
+339	Carcinosarcoma
+340	Nevus
+341	Frontotemporal Lobar Degeneration
+342	Shock, Septic
+343	Multiple System Atrophy
+344	Lymphoproliferative Disorders
+345	Silicosis
+346	Balkan Nephropathy
+347	Borna Disease
+348	Guillain-Barre Syndrome
+349	Lyme Disease
+350	Adenocarcinoma, Sebaceous
+351	Gestational Trophoblastic Disease
+352	Thymoma
+353	Sertoli Cell-Only Syndrome
+354	Mastitis
+355	African Swine Fever
+356	Carcinoma, Mucoepidermoid
+357	Peritoneal Neoplasms
+358	Hearing Disorders
+359	Ganglioglioma
+360	Smoke Inhalation Injury
+361	Prader-Willi Syndrome
+362	Eclampsia
+363	Nephrosclerosis
+364	Niemann-Pick Disease, Type C
+365	Carcinoma, Ehrlich Tumor
+366	Multiple Endocrine Neoplasia Type 1
+367	Liver Diseases, Alcoholic
+368	Seminoma
+369	Esophagitis
+370	Osteonecrosis
+371	Gaucher Disease
+372	Shock, Hemorrhagic
+373	Otitis Media
+374	Chorioamnionitis
