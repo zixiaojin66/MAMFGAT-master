@@ -1,5 +1,5 @@
-# MINIMDA
-Predicting miRNA-disease associations via learning multimodal networks and fusing mixed neighborhood information
+# MAMFGAT
+Predicting miRNA-disease association via graph attention learning and multiplex adaptive modality fusion
 
 ## Requirements
   * python==3.7
@@ -19,11 +19,11 @@ Predicting miRNA-disease associations via learning multimodal networks and fusin
   * disease number.txt: Disease id and name
   * miRNA number.txt: MiRNA id and name
 ### result
-  MINIMDA cross validation results.
+  MAMFGAT cross validation results.
 ### code
   * eval.py: The startup code of the program
   * train.py: Train the model
-  * minimda.py: Structure of the model
+  * MAMFGAT.py: Structure of the model
   * utils.py: Methods of data processing
  
 ## Usage
