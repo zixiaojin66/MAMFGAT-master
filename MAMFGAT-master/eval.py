@@ -17,7 +17,7 @@ os.environ['KMP_DUPLICATE_LIB_OK'] = 'TRUE'
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--epochs', type=int, default=600, metavar='N', help='number of epochs to train')
+parser.add_argument('--epochs', type=int, default=300, metavar='N', help='number of epochs to train')
 parser.add_argument('--fm', type=int, default=64, help='length of miRNA feature')
 parser.add_argument('--fd', type=int, default=64, help='length of dataset feature')
 parser.add_argument('--wd', type=float, default=1e-3, help='weight_decay')
